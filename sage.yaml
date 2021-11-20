@@ -1,0 +1,16 @@
+name: "hello-world"
+description: "My hello world plugin"
+version: "0.0.1"
+keywords: "hello, testing"
+authors: "Dario Dematties <djdematties@gmail.com>, A Coworker <your.coworker@somewhere.org>"
+collaborators: "Helpful Collaborator <our.collaborator@otherplace.edu>"
+funding: ""
+license: ""
+homepage: "https://github.com/dariodematties/plugin-hello-world/blob/main/README.md"
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
+    - "linux/arm/v7"
+  url: "https://github.com/dariodematties/plugin-hello-world"
+  branch: "main"
